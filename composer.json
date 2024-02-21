@@ -1,0 +1,16 @@
+{
+  "name" : "dachi301/jobs-listing",
+  "description" : "Job listing application",
+  "authors" : [
+    {
+      "name" : "Dachi301",
+      "email" : "qirikashvili2020@gmail.com"
+    }
+  ],
+  "autoload" : {
+    "psr-4" : {
+      "Framework\\" : "Framework/",
+      "App\\" : "App/"
+    }
+  }
+}
